@@ -1286,8 +1286,19 @@ ul {
   }
   .btn_promo {
     margin: 0 auto;
+    margin-bottom: 40px;
     padding: 12px 26px;
     min-width: 162px;
+  }
+  .swiper-container-horizontal>.swiper-pagination-bullets {
+    bottom: 15px;
+  }
+  .swiper-container-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet {
+    margin: 0 20px;
+  }
+  .swiper-pagination-bullet {
+    width: 10px;
+    height: 10px;
   }
   .title {
     font-size: 24px;
