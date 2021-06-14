@@ -1293,9 +1293,6 @@ ul {
   .swiper-container-horizontal>.swiper-pagination-bullets {
     bottom: 15px;
   }
-  .swiper-container-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet {
-    margin: 0 20px;
-  }
   .swiper-pagination-bullet {
     width: 10px;
     height: 10px;
