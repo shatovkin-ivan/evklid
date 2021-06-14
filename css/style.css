@@ -1226,6 +1226,7 @@ ul {
     margin-bottom: 20px;
   }
   .burger {
+    right: 0;
     width: 25px;
   }
   .burger-stick {
@@ -1254,6 +1255,7 @@ ul {
     max-height: 31px;
   }
   .header__wrap {
+    position: relative;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: reverse;
         -ms-flex-direction: row-reverse;
